@@ -87,7 +87,6 @@ Resultados:
 |---|---|
 | Sherlock no ejecutó | Problemas de repositorios en Kali |
 | theHarvester sin resultados | Dominio poco expuesto o APIs de pago |
-| Google como fuente inválida | Versión 4.4.1 no soporta Google directo |
 | Información parcial | Acceso limitado a herramientas premium |
 
 ---
