@@ -78,3 +78,42 @@ Resultados:
 - Hosts encontrados: Ninguno
 - Emails encontrados: Ninguno
 - IPs encontradas: Ninguna
+
+---
+
+## 7. LIMITACIONES DEL LABORATORIO
+
+| Limitación | Causa |
+|---|---|
+| Sherlock no ejecutó | Problemas de repositorios en Kali |
+| theHarvester sin resultados | Dominio poco expuesto o APIs de pago |
+| Google como fuente inválida | Versión 4.4.1 no soporta Google directo |
+| Información parcial | Acceso limitado a herramientas premium |
+
+---
+
+## 8. CONCLUSIONES
+
+A través de fuentes abiertas fue posible identificar:
+
+✅ Usuarios oficiales en X e Instagram  
+✅ Ubicaciones recientes del sujeto  
+✅ Postura política actual y controversias  
+✅ Procesos disciplinarios en curso  
+✅ Promesas de gestión sin cumplir documentadas  
+
+La información obtenida es 100% pública y
+proviene de declaraciones y publicaciones
+del propio sujeto investigado.
+
+---
+
+## 9. DISCLAIMER
+
+> Este laboratorio fue realizado con fines
+> estrictamente educativos. Toda la información
+> fue obtenida de fuentes públicas y abiertas.
+> No se accedió a sistemas privados ni se
+> vulneró ninguna ley colombiana o internacional.
+> El objetivo es la práctica de metodología OSINT.
+
